@@ -1,2 +1,21 @@
-My name is Alicia Park. I'm an UT Austin recent graduate and I majored in Electrical and Computer Engineering in Data Science and Information Processing Track. I'm originally from Seoul, Korea, but I moved to Austin in 2018.
-I love all foods, particularly Korean food, and I like to play sports! 
+Howdy! My name is Alicia Park and I'm a recent graduate from UT Austin, where I majored in Electrical and Computer Engineering with a focus in Data Science and Information Processing (May 2026).
+I'm passionate about building agentic AI systems that automate real-world workflows and create meaningful impact. From intelligent resume tailoring agents to conversational AI assistants, I love taking an idea and turning it into a working product that actually solves problems.
+My background in data science gives me a strong foundation for understanding how systems behave and how to make them smarter. Combined with my hands-on experience building AI agents, I'm excited to push the boundaries of what autonomous systems can do.
+I've lived in 4 countries — born in Wisconsin, moved to Korea at 7 months, kindergarten in Germany, elementary in Seoul, middle school in Shanghai, and high school and college in Austin, Texas. This international upbringing shaped how I think, communicate, and collaborate across cultures.
+Education:
+The University of Texas at Austin, BS in Electrical and Computer Engineering, May 2026. Track: Data Science and Information Processing. Relevant coursework includes Data Science Laboratory, Algorithms, Software Engineering, Linear Algebra, Probability, and Digital Signal Processing.
+Work Experience:
+Product Management Intern at Ahnlab Blockchain Company (May–July 2025): Analyzed transaction and user data using Python and SQL on a KRW stablecoin payment platform, collaborated with cross-functional teams, and developed performance monitoring reports.
+Undergraduate Research Assistant at Seoul National University (May–July 2023): Analyzed multi-sensor datasets using Python, improved object recognition accuracy by 20%, and presented findings through visualizations to research teams.
+Projects:
+
+Smart Apply Agent: Agentic AI app that parses job postings, tailors resumes automatically, and logs applications to Google Sheets.
+Personal AI Chatbot: Conversational AI assistant deployed on personal website that answers questions about my background and career.
+Personal Data Analytics App: Streamlit app analyzing behavioral data (sleep, activity, productivity) to identify performance patterns.
+TIW Autonomous Tool Delivery Robot: Web-based system for real-time monitoring and data visualization of an autonomous robot.
+
+Skills:
+Python, SQL, C/C++, Java, HTML/CSS, JavaScript, Tableau, Looker. AI tools: Cursor AI, GitHub Copilot, ChatGPT, Gemini. Languages: English (Fluent), Korean (Native), Mandarin Chinese (Intermediate).
+Accomplishments:
+J.K. Aggarwal Endowed Presidential Scholarship in ECE, Linford Family Endowed Scholarship. Director of Professional Development at Undergraduate Korean Association.
+Outside of work, I'm into photography, volleyball, and cooking — my way of experimenting and finding beauty in unexpected places.
